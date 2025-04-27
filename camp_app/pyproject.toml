@@ -1,0 +1,13 @@
+[project]
+name = "camp-app"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit==1.44.1",
+    "openpyxl==3.1.5",
+    "pandas==2.2.3",
+    "pulp==2.9.0",
+    "rapidfuzz==3.12.1",
+]
+description = "A Streamlit app for camp management"
+readme = "README.md"
